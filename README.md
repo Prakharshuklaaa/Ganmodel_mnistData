@@ -1,0 +1,1 @@
+# Ganmodel_mnistData
